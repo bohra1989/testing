@@ -1,0 +1,1 @@
+{"terms": [ { "entry": { "term": "","lat":"24.57658","lon":"73.74379" } }, { "entry": { "term": "hello","lat":"","lon":"" } }]}

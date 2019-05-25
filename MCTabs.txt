@@ -1,0 +1,49 @@
+Moneycontrol sections:
+1. Markets
+2. News
+3. My stocks
+4. Messages
+5. Videos
+6. Setting
+
+Markets:
+1. Home
+2. Indices
+3. Market Movers
+4. Commodities
+5. Currencies
+
+
+News:
+1. Top News
+2. Markets
+3. Stocks
+4. Business
+5. Others
+
+
+My stocks: After Login
+1. My Portfolio
+2. My watchlist
+3. Stocks I visited
+4. Customize Ticker
+5. Log out
+
+Messages:
+1. Latest Messages
+2. Post
+
+Videos:
+1. CNBC-TV18
+2. CNBC-Awaaz
+3. Videos on Demand
+
+Settings:
+1. Ticker Settings
+2. Rate this app
+3. Share this app
+4. Feedback
+5. About us
+6. Credits
+
+
